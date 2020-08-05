@@ -1,0 +1,18 @@
+.container {
+    width: 60vw;
+    padding: 20px 10px;
+    color: black;
+  }
+
+.name {
+    /* border: 3px solid yellow; */
+    width: 20%;
+    display: inline-block;
+    overflow-wrap: anywhere;
+}
+
+.progress {
+    /* border: 3px solid green; */
+    width: 80%;
+    display: inline-block;
+}

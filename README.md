@@ -1,3 +1,11 @@
+## Description
+This project is designed so that the user could set a task and the time they wish to work on it (e.g. exercise for 30 min). They could then use the app to stay on track during the day to meet their goals.
+
+## WIP/Future Features:
+1. Editing/removing tasks
+2. Fixing some style/alignment bugs
+3. Keep a history of past days & task timers set
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

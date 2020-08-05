@@ -1,0 +1,15 @@
+.container {
+    width: 90%;
+    padding: 0.5em;
+    display: inline-block;
+ }
+
+.progress button{
+    border-radius: 5px;
+    border-color: gray;
+    padding: 0.5 em;
+    cursor: pointer;
+    color: gray;
+    background-color: #ffa96c;
+    float: right; 
+}
